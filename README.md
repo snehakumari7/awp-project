@@ -1,14 +1,8 @@
-Alright — combining both your **synopsis (Word doc)** and **feature-rich PDF**, here’s a polished, GitHub-ready **README.md** draft that you can put in your repo right now.
-
----
-
-# 🏠 House & Hostel Rental System with Expense Tracking
+# House & Hostel Rental System with Expense Tracking
 
 A full-stack **MEAN** (MongoDB, Express.js, Angular, Node.js) web application that connects **landlords** and **tenants** for secure property rentals while integrating a **smart expense tracker** for personal and shared finance management.
 
 Designed for **students**, **hostel/PG residents**, and **working professionals**, the system streamlines accommodation search, booking, payments, expense tracking, and communication — all in one platform.
-
----
 
 ## 🚀 Features
 
@@ -46,7 +40,6 @@ Designed for **students**, **hostel/PG residents**, and **working professionals*
 * Minimal monochrome theme with responsive design.
 * Clean navigation with quick access to dashboard, chat, expenses, and search.
 
----
 
 ## 🛠 Tech Stack
 
@@ -55,7 +48,6 @@ Designed for **students**, **hostel/PG residents**, and **working professionals*
 * **Database:** MongoDB (user profiles, expenses, chat, listings)
 * **Other Tools:** Git/GitHub, Postman, Figma
 
----
 
 ## 📌 Expected Outcome
 
